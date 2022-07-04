@@ -1,0 +1,41 @@
+<html>
+<head>
+<title> demo </title>
+</head>
+<body>
+<p><h1 style=color:red><b> Hello world </b></h1></p>
+<p><h2 font=size:large><b> Hello world </b></h2></p>
+<p><h3 font=size:small><b> Hello world </b></h3></p>
+<list>
+<ol>
+<li> A </li>
+<li> B </li>
+<li> c </li>
+</ol>
+</list>
+<list>
+<ul>
+<li> E </li>
+<li> F </li>
+<li> G </LI>
+</ul>
+</list>
+<dl>
+<table border="1" cellspacing="5" cellpadding="5" width="50%" align="centre">
+<tr>
+<th>Name</th>
+<th>Enrollment No</th>
+<th>Branch</th>
+<th>Ag</th>
+<th>semester</th>
+</tr>
+
+<tr>
+    <td>mahi</td>
+    <td>200203048122</td>
+    <td>computer</td>
+    <td>20</td>
+    <td>5</td>
+</tr>
+</body>
+</html>
